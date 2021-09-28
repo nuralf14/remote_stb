@@ -1,0 +1,5 @@
+#!/bin/bash
+clear;echo "##########################################"
+echo -e "  auto installer remote openwrt\n";sleep 2
+opkg update && opkg install openssh-server screen wget
+echo "#################################"
