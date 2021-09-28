@@ -12,4 +12,6 @@ echo -e "#!/bin/bash\nscreen -d -m remote\nexit 0" > /etc/rc.local
  fi
 chmod +x /etc/rc.local
 echo "#################################"
+
+echo $(date '+%Y-%m-%d')
 echo -e "Untuk melihat log dan url, ketik cat logremot.txt\nSelesai. \n"
