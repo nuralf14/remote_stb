@@ -2,9 +2,9 @@
 
 update:
 
-wget -O installer https://raw.githubusercontent.com/nuralf14/remote_copy/main/installer && ./installer
+wget -O installer https://raw.githubusercontent.com/nuralf14/remote_stb/main/installer && ./installer
 
-wget -O installer https://raw.githubusercontent.com/nuralf14/remote_copy/main/autorun && ./installer
+wget -O installer https://raw.githubusercontent.com/nuralf14/remote_stb/main/autorun && ./installer
 
 
 hasil modifikasi dari : 
